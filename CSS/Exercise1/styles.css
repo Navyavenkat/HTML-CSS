@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blue;
+    font-size: 16px;
+}
+#container{
+    padding: 50px;
+    margin: 20px;
+    border: solid black;
+
+}
+.intro,.intro-special{
+    color: red;
+}
+.link,.link-special
+{
+    text-decoration: none;
+    color: green;
+}
